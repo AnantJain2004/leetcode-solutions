@@ -7,3 +7,4 @@
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | [Python](./python/array/easy/1929-concatenation_of_array.py) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Python](./python/array/easy/283-move_zeroes.py) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy   | [Python](./python/array/easy/433-reverse_string.py) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](./python/array/easy/217-contains_duplicate.py) |
