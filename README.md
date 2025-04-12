@@ -8,3 +8,4 @@
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Python](./python/array/easy/283-move_zeroes.py) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy   | [Python](./python/array/easy/433-reverse_string.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](./python/array/easy/217-contains_duplicate.py) |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | [Python](./python/database/easy/1757-recyclable_and_low_fat_products) |
