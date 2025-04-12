@@ -1,0 +1,25 @@
+import pandas as pd
+
+def find_products(products: pd.DataFrame) -> pd.DataFrame:
+    # Filter where both low_fats and recyclable are 'Y'
+    filtered = products[(products['low_fats'] == 'Y') & (products['recyclable'] == 'Y')]
+    
+    # Return only the product_id column
+    return filtered[['product_id']]
+
+# Sample input as a dictionary
+data = {
+    "product_id": [0, 1, 2, 3, 4],
+    "low_fats":   ['Y', 'Y', 'N', 'Y', 'N'],
+    "recyclable": ['N', 'Y', 'Y', 'Y', 'N']
+}
+
+# Create DataFrame
+products_df = pd.DataFrame(data)
+
+# Run the function
+result_df = find_products(products_df)
+
+# Display the result
+print("Filtered Products (both low fat and recyclable):")
+print(result_df)
