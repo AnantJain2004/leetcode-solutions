@@ -9,3 +9,4 @@
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy   | [Python](./python/array/easy/433-reverse_string.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](./python/array/easy/217-contains_duplicate.py) |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | [Python](./python/database/easy/1757-recyclable_and_low_fat_products) |
+| 28| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [Python](./python/array/easy/28-index_of_first_occurence.py) |
